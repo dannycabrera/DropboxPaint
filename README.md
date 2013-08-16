@@ -14,4 +14,4 @@ Dropbox Sync http://components.xamarin.com/view/dropboxsync/
 Json.NET http://components.xamarin.com/view/json.net/
 
 ####Dropbox Setup
-See wiki
+[See wiki](https://github.com/dannycabrera/DropboxPaint/wiki)
