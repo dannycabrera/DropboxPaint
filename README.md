@@ -12,3 +12,8 @@ Preview
 Dropbox Sync http://components.xamarin.com/view/dropboxsync/
 
 Json.NET http://components.xamarin.com/view/json.net/
+
+####Dropbox Setup
+<ul>
+  <li>Create your Dropbox app https://www.dropbox.com/developers/apps/create</li>
+</ul>
