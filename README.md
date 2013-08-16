@@ -15,9 +15,7 @@ Json.NET http://components.xamarin.com/view/json.net/
 
 ####Dropbox Setup
 <ul>
-  <li>Create your Dropbox app https://www.dropbox.com/developers/apps/create
-  Example:
-  ![DropboxAppCreation](http://dannycabrera.com/github/dropboxpaint/DropboxAppCreation.jpg)
+  <li>Create your Dropbox app https://www.dropbox.com/developers/apps/create ![DropboxAppCreation](http://dannycabrera.com/github/dropboxpaint/DropboxAppCreation.jpg)
   </li>
   <li>Test</li>
 </ul>
