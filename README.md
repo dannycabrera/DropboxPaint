@@ -15,5 +15,5 @@ Json.NET http://components.xamarin.com/view/json.net/
 
 ####Dropbox Setup
 1. Create your Dropbox app https://www.dropbox.com/developers/apps/create 
-2. For this sample I named it Xamarin.DbPaint ![DropboxAppCreation](http://dannycabrera.com/github/dropboxpaint/DropboxAppCreation.jpg)
+2. Creat a Dropbox API app (Datastores only). Named this example Xamarin.DbPaint ![DropboxAppCreation](http://dannycabrera.com/github/dropboxpaint/DropboxAppCreation.jpg)
    
