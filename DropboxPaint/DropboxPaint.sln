@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropboxPaint", "DropboxPaint.csproj", "{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Debug|iPhone.Build.0 = Debug|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Release|iPhone.Build.0 = Release|iPhone
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ABDA9A79-E092-42EC-ACDE-31CF4EBD8F86}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DropboxPaint.csproj
+	EndGlobalSection
+EndGlobal
