@@ -14,8 +14,6 @@ Dropbox Sync http://components.xamarin.com/view/dropboxsync/
 Json.NET http://components.xamarin.com/view/json.net/
 
 ####Dropbox Setup
-<ul>
-  <li>Create your Dropbox app https://www.dropbox.com/developers/apps/create ![DropboxAppCreation](http://dannycabrera.com/github/dropboxpaint/DropboxAppCreation.jpg)
-  </li>
-  <li>Test</li>
-</ul>
+1. Create your Dropbox app https://www.dropbox.com/developers/apps/create 
+2. For this sample I named it Xamarin.DbPaint ![DropboxAppCreation](http://dannycabrera.com/github/dropboxpaint/DropboxAppCreation.jpg)
+   
